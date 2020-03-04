@@ -1,1 +1,0 @@
-prec_vue_pass-data
