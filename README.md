@@ -1,1 +1,1 @@
-HSK
+Thanks for getting in touch!
