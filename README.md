@@ -1,1 +1,1 @@
-I’m looking forward to working with you.
+Delighted to make your acquaintance.
