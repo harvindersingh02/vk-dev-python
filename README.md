@@ -1,2 +1,1 @@
-Lovely to meet you!
-HEXO-LOVE
+How do you do?
