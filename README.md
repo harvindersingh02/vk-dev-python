@@ -1,2 +1,1 @@
-How do you do?
-:nauseated_face:
+a8poyxbs
