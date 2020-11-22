@@ -1,3 +1,1 @@
-E3UcJ5e2
-:cry:
-:relieved:
+It is fun chatting with you!
