@@ -1,2 +1,1 @@
--doing-typescript-
-Thank you for interacting with me.
+angular-hs1jh5-angular-hs1jh5
