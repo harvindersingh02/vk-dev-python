@@ -1,2 +1,1 @@
-kEqAfJcN3
-Sessionauth_examplE
+It was nice meeting you!
