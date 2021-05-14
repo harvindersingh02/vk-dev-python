@@ -1,7 +1,1 @@
-iUbsOug
-I’ve heard great things about you.
-:anger:
-jsanalyser
-:eye_speech_bubble:
-momentum_clone
-:yawning_face:
+it7J
