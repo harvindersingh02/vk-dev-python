@@ -1,3 +1,1 @@
-zoogpzPVvgo
-:cowboy_hat_face:
-udacity-project-1
+It was lovely meeting you!
