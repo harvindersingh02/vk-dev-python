@@ -1,0 +1,1 @@
+core.laravel.vuetify.example
