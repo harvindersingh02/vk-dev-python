@@ -1,1 +1,1 @@
-DeeplearningstudY
+hunspell-fy
