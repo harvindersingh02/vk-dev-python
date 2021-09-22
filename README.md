@@ -1,1 +1,1 @@
-Bj4uONU
+react-redux-admin-boilerplate
