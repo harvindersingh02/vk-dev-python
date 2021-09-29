@@ -1,3 +1,1 @@
-Thank you for interacting with me.
-Pleased to meet you.
-schedule_bot
+It’s very nice to meet you!
