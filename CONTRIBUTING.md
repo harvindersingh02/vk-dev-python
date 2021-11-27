@@ -1,2 +1,1 @@
-:frowning_face:
-:hushed:
+It was nice talking to you!
