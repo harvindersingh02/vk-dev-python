@@ -1,2 +1,1 @@
-NB6T
-sehir-bulmaca
+da.abstractions
