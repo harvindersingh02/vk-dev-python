@@ -1,2 +1,1 @@
-jeXd9Kq
-KafkaSharp
+It’s lovely to meet you!
