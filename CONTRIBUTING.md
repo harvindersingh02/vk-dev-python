@@ -1,2 +1,1 @@
-adammcgurk.com
-:joy_cat:
+is-react-admin
