@@ -1,2 +1,1 @@
-It was nice to have met you!
-Glad to meet you!
+It’s been a pleasure meeting you!
