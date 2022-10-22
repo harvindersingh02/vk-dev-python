@@ -1,2 +1,1 @@
-GWR
-:hushed:
+TmDik
