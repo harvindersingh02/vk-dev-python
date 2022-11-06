@@ -1,2 +1,1 @@
-react-comment-app
-Pleased to meet you!
+It’s a pleasure to meet you!
