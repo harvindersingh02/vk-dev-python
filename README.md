@@ -1,0 +1,1 @@
+CG.Configuration.Abstractions
